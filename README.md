@@ -111,9 +111,9 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MOHAMED-EHAB-DEV/live-docs/issues/1) in [MOHAMED-EHAB-DEV/live-docs](https://github.com/MOHAMED-EHAB-DEV/live-docs)
-2. ❗️ Opened issue [#1](https://github.com/MOHAMED-EHAB-DEV/live-docs/issues/1) in [MOHAMED-EHAB-DEV/live-docs](https://github.com/MOHAMED-EHAB-DEV/live-docs)
-3. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. ❌ Closed PR [#1](https://github.com/byteslash-hub/.github/pull/1) in [byteslash-hub/.github](https://github.com/byteslash-hub/.github)
+2. ❗️ Closed issue [#1](https://github.com/MOHAMED-EHAB-DEV/live-docs/issues/1) in [MOHAMED-EHAB-DEV/live-docs](https://github.com/MOHAMED-EHAB-DEV/live-docs)
+3. ❗️ Opened issue [#1](https://github.com/MOHAMED-EHAB-DEV/live-docs/issues/1) in [MOHAMED-EHAB-DEV/live-docs](https://github.com/MOHAMED-EHAB-DEV/live-docs)
 4. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. ❗️ Opened issue [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->

@@ -6,10 +6,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Programming-School-Pro-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
-		   <img src="https://badges.pufler.dev/repos/programming-school-pro-coding" alt="Programming-School-Pro-Coding" />
-		   <img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers" alt="Programming-School-Pro-Coding" />
-		   <img src="https://badges.pufler.dev/gists/Programming-School-Pro-Coding" alt="Gists" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MOHAMED-EHAB-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
+		   <img src="https://badges.pufler.dev/repos/MOHAMED-EHAB-DEV" alt="Programming-School-Pro-Coding" />
+		   <img src="https://img.shields.io/github/followers/MOHAMED-EHAB-DEV?label=Followers" alt="MOHAMED-EHAB-DEV" />
+		   <img src="https://badges.pufler.dev/gists/MOHAMED-EHAB-DEV" alt="Gists" />
 </p>
 
 <!-- <img src="standard (1).gif" align="right" width="400"/> -->

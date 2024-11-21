@@ -59,12 +59,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://mohammedehab.vercel.app" target="_blank">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MOHAMED-EHAB-DEV's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMED-EHAB-DEV&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>

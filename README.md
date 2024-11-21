@@ -61,14 +61,14 @@
 
 <p align="center">
     <a href="https://mohammedehab.vercel.app" target="_blank">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Programming-School-Pro-Coding's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Programming-School-Pro-Coding&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MOHAMED-EHAB-DEV's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMED-EHAB-DEV&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Mohamed Ehab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Programming-School-Pro-Coding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Mohamed Ehab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-EHAB-DEV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <!--- <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-School-Pro-Coding&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMED-EHAB-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -94,12 +94,12 @@
 
 ## ❤ Views and Followers
 <a href="https://twitter.com/Programing_Pro">![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=for-the-badge)</a>
-<a href="https://github.com/Programming-School-Pro-Coding?tab=followers"><img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
+<a href="https://github.com/Programming-School-Pro-Coding?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMED-EHAB-DEV?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
 <a href="https://youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw"><img src="https://img.shields.io/youtube/channel/views/UC1YTVmV31RZV2oie1kKpJkw?color=%23333333&label=Programming%20School&style=for-the-badge" /></a>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programming-School-Pro-Coding&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOHAMED-EHAB-DEV&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
 	
 ## My Latest Blog Posts 👇
 <!-- BLOGPOSTS:START -->
@@ -127,8 +127,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-	  <td align="center"><a href="https://mohamed-ehab-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/96921717?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Programming-School</b></sub></a><br /><a href="https://github.com/Programming-School-Pro-Coding/Programming-School-Pro-Coding/commits?author=Programming-School-Pro-Coding" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/onlineWebTutorials"><img src="https://avatars.githubusercontent.com/u/96112266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>onlineWebTutorials</b></sub></a><br /><a href="https://github.com/Programming-School-Pro-Coding/Programming-School-Pro-Coding/commits?author=onlineWebTutorials" title="Code">💻</a></td>
+	  <td align="center"><a href="https://mohamed-ehab-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/96921717?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Programming-School</b></sub></a><br /><a href="https://github.com/MOHAMED-EHAB-DEV/MOHAMED-EHAB-DEV/commits?author=MOHAMED-EHAB-DEV" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/onlineWebTutorials"><img src="https://avatars.githubusercontent.com/u/96112266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>onlineWebTutorials</b></sub></a><br /><a href="https://github.com/MOHAMED-EHAB-DEV/MOHAMED-EHAB-DEV/commits?author=onlineWebTutorials" title="Code">💻</a></td>
   </tr>
 </table>
 

@@ -2,9 +2,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MOHAMED-EHAB-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
-		   <img src="https://badges.pufler.dev/repos/MOHAMED-EHAB-DEV" alt="Programming-School-Pro-Coding" />
+		   <!-- <img src="https://badges.pufler.dev/repos/MOHAMED-EHAB-DEV" alt="Programming-School-Pro-Coding" /> -->
 		   <img src="https://img.shields.io/github/followers/MOHAMED-EHAB-DEV?label=Followers" alt="MOHAMED-EHAB-DEV" />
-		   <img src="https://badges.pufler.dev/gists/MOHAMED-EHAB-DEV" alt="Gists" />
+		   <!-- <img src="https://badges.pufler.dev/gists/MOHAMED-EHAB-DEV" alt="Gists" /> -->
 </p>
 
 
@@ -32,8 +32,8 @@
 <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
 <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828"><a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/Programming-School-Pro-Coding" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-    <a href="https://code.visualstudio.com"><img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" /></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> <!-- </a>
+    <a href="https://code.visualstudio.com"><img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" /></a> -->
 
 <br/>
 
@@ -42,13 +42,14 @@
   <br/>
     <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Mohamed Ehab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-EHAB-DEV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <!--
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMED-EHAB-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="MOHAMED-EHAB-DEV's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMED-EHAB-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>

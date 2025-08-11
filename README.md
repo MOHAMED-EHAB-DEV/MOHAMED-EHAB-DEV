@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mohammedehab.vercel.app)**
 
-- 📫 How to reach me **[Socials And Blogs](https://linktr.ee/Programming_School)**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/1-mohammed/)**
 
 - :nerd_face: Always `learning new things`
 
